@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://piegheeye.arnot.nl/sitemap.xml
